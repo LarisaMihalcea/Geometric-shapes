@@ -18,17 +18,30 @@ Example
 Input
 
 6
+
 square 2.10
+
 rectangle 1.20 7.90
+
 circle 3.11
+
 square 4.40
+
 rectangle 9.10 0.40
+
 square 1.50
 
+
 Output
+
 circle 3.11
+
 square 4.40
+
 rectangle 1.20 7.90
+
 square 2.10
+
 rectangle 9.10 0.40
+
 square 1.50
